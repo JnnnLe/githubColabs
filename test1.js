@@ -1,1 +1,1 @@
-Hi there world!
+let fun = "Hi there world!"
